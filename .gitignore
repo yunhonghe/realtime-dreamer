@@ -89,4 +89,4 @@ target/
 .mypy_cache/
 /src/data/test.pdf
 /docs/test.pdf
-/test_ignore.pdf
+*.pdf
