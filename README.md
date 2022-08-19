@@ -3,6 +3,12 @@ realtime-dreamer
 
 Conducted sentiment analysis on customer reviews by building, evaluating BERT models, produced predicted emotions on the customer reviews
 
+
+<img width="1391" alt="Screen Shot Sentiment Analysis" src="https://github.com/yunhonghe/realtime_dreamer/blob/main/reports/figures/sentiment%20analysis%20-%20model%20evaluation%20by%20metrics%20-%20visualization.png">
+
+
+
+
 Project Organization
 ------------
 
